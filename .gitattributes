@@ -1,1 +1,4 @@
-*.rb linguist-language=Python
+*.python linguist-language=true
+*.jupyter-notebook linguist-language=false
+
+
